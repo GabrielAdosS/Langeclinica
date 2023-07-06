@@ -415,7 +415,7 @@ section{
     }
     .home{
         background-position: left;
-        height: 150px;
+        height: 350px;
         display: flex;
         justify-content: left;
         align-items: center;
