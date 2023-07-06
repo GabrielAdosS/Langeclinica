@@ -149,7 +149,7 @@ section{
 /* home */
 
 .home{
-    min-height: 100vh;
+    height: 100vh;
     display: flex;
     align-items: center;
     background: url(../images/SALA\ DE\ ESPERA.jpg) no-repeat;
