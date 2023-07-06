@@ -415,7 +415,7 @@ section{
     }
     .home{
         background-position: left;
-        height: 150px;
+        height: 15px;
         display: flex;
         justify-content: left;
         align-items: center;
@@ -423,6 +423,7 @@ section{
 
     .home .content{
         max-width: 50rem;
+        padding: 0;
     }
 
     .home .content h3{
