@@ -415,11 +415,14 @@ section{
     }
     .home{
         background-position: left;
+        height: 150px;
+        display: flex;
+        justify-content: left;
+        align-items: center;
     }
 
     .home .content{
         max-width: 50rem;
-        padding-left: 3rem;
     }
 
     .home .content h3{
