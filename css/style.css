@@ -414,9 +414,7 @@ section{
         display: block;
     }
     .home{
-        /* background-position: left; */
-        background-repeat: no-repeat;
-        background-position: left top;
+        background-position: left;
         background-image: url(../images/entrada.jpg);
     }
 
