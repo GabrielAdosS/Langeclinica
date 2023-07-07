@@ -438,6 +438,11 @@ section{
         justify-content: center;
     }
 
+    .contact .box-container {
+        display: flex;
+        justify-content: center;
+    }
+
     .contact .box-container .box h3 {
         width: 150px;
     }
