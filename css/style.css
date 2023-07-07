@@ -417,7 +417,6 @@ section{
         /* background-position: left; */
         background-repeat: no-repeat;
         background-position: left top;
-        background-attachment: fixed;
         background-image: url(../images/entrada.jpg);
     }
 
