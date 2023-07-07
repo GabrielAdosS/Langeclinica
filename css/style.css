@@ -426,7 +426,7 @@ section{
 
     .home .content h3{
         font-size: 4rem;
-        color: var(--primary);
+        color: var(--hover);
     }
     .home .content p {
         color: var(--hover);
