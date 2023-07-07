@@ -432,7 +432,8 @@ section{
         height: 50px;
     }
     .contact .box-container .box h3 {
-        width: 150px;
+        margin: 0 75px;
+        text-align: center;
     }
 }
 @keyframes openSidebar {
