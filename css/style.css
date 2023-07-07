@@ -417,6 +417,7 @@ section{
     .home{
         background-position: left;
         background-image: url(../images/entrada.jpg);
+        padding-top: 80px;
     }
 
     .home .content{
