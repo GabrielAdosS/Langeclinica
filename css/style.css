@@ -436,6 +436,7 @@ section{
     .contact {
         display: flex;
         justify-content: center;
+        flex-direction: column;
     }
 
     .contact .box-container {
