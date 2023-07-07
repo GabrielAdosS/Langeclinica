@@ -432,6 +432,9 @@ section{
         height: 50px;
     }
 
+    .contact .box-container .box h3 {
+        width: 150px;
+    }
 }
 @keyframes openSidebar {
     from {
