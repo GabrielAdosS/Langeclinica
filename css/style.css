@@ -166,14 +166,14 @@ section{
 
 .home .content h3{
     font-size: 6rem;
-    color: var(--hover);
+    color: var(--light-bg);
     line-height: 1.2;
 }
 
 .home .content p{
     line-height: 2;
     font-size: 1.5rem;
-    color: var(--hover);
+    color: var(--white);
     padding: 1rem 0;
 }
 
@@ -426,6 +426,10 @@ section{
 
     .home .content h3{
         font-size: 4rem;
+        color: var(--primary);
+    }
+    .home .content p {
+        color: var(--hover);
     }
     .logo img {
         width: 100px;
