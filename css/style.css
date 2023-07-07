@@ -166,14 +166,14 @@ section{
 
 .home .content h3{
     font-size: 6rem;
-    color: var(--white);
+    color: yellow;
     line-height: 1.2;
 }
 
 .home .content p{
     line-height: 2;
     font-size: 1.5rem;
-    color: var(--white);
+    color: yellow;
     padding: 1rem 0;
 }
 
