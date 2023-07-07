@@ -168,7 +168,6 @@ section{
     font-size: 6rem;
     color: var(--white);
     line-height: 1.2;
-    font-weight: bold;
 }
 
 .home .content p{
@@ -176,7 +175,6 @@ section{
     font-size: 1.5rem;
     color: var(--white);
     padding: 1rem 0;
-    font-weight: bold;
 }
 
 /* home end */
