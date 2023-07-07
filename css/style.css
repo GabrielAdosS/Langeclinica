@@ -427,17 +427,19 @@ section{
     .home .content h3{
         font-size: 4rem;
     }
+    
     .logo img {
         width: 100px;
         height: 50px;
     }
 
-    .contact .box-container .box h3 {
-        width: 150px;
-    }
-    .contact .box-container {
+    .contact {
         display: flex;
         justify-content: center;
+    }
+
+    .contact .box-container .box h3 {
+        width: 150px;
     }
 }
 @keyframes openSidebar {
