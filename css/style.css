@@ -429,7 +429,7 @@ section{
         color: var(--primary);
     }
     .home .content p {
-        color: var(--white);
+        color: var(--hover);
     }
     .logo img {
         width: 100px;
