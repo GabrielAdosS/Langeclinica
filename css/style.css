@@ -440,6 +440,10 @@ section{
         margin: 0 75px;
         text-align: center;
     }
+    .services .box-container .box img {
+        height: 25rem;
+        width: 25rem;
+    }
 }
 @keyframes openSidebar {
     from {
