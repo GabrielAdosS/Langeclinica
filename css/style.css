@@ -441,8 +441,8 @@ section{
         text-align: center;
     }
     .services .box-container .box img {
-        height: 15rem;
-        width: 15rem;
+        height: 20rem;
+        width: 20rem;
     }
 }
 @keyframes openSidebar {
