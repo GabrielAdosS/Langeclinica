@@ -406,7 +406,7 @@ section{
         padding: 16px;
         height: 1100%;
         width: 40vw;
-        animation-duration: 2s;
+        animation-duration: 5s;
         flex-direction: column;
     }
     .nav-header .ancora {
