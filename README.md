@@ -5,3 +5,6 @@ esse e um projeto de markting digital, a proposta do projeto era encontrar um cl
 site: [langeodontoatelie.com.br](https://langeodontoatelie.com.br)
 
 usamos html, css e javaScript nesse projeto
+
+
+Esse repositório está sendo usado somente para utilizar o github pages, assim nosso cliente poderia ver como o site estava indo.
