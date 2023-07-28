@@ -7,4 +7,4 @@ site: [langeodontoatelie.com.br](https://langeodontoatelie.com.br)
 usamos html, css e javaScript nesse projeto
 
 
-Esse repositório está sendo usado somente para utilizar o github pages, assim nosso cliente poderia ver como o site estava indo.
+Esse repositório está sendo usado somente para utilizar o github pages, assim nosso cliente poderia ver como estava o desenvolvimento do site.
